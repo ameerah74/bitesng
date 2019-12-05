@@ -1,0 +1,38 @@
+body{
+	background-image: url(images/log.jpg);
+	/*background-position: center;*/
+	background-size: cover; 
+}
+.navbar{width: 0px;
+	    height: 20px;
+	    color: lightgrey;
+	    margin-left: 520px;
+	    margin-top: 10px;
+	    margin-bottom: 10px;
+}
+ .fab fa-instagram{
+ 	    font-size: 40px;
+ 	    color: white;
+ }
+  .fab fa-twitter{
+ 	    font-size: 40px;
+ 	    color: white;
+ }
+  .fab fa-facebook{
+ 	    font-size: 40px;
+ 	    color: white;
+ }
+ .foot{
+ 	background-color: black;
+ 	font-size: small;
+ 	color: white;
+ 	margin-top: 20px;
+ 
+
+ }
+ .card{
+ 	margin-top: 15px;
+ }
+ .navbar-nav{
+ 	background-color: lightgrey;
+ }
